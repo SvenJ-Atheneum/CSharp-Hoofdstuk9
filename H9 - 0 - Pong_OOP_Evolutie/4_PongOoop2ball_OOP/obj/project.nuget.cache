@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "q4SMLb8a1t7dXJfyuvDHWLuEThXv1+O89w98kpOyxKdP7ZNCgfL9gYcR3s1JvQCz2ohBcIrtHNF4LySDUElG0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sven.janssens\\source\\repos\\Hoofdstuk 9\\H9 - 0 - Pong_OOP_Evolutie\\4_PongOoop2ball_OOP\\4_PongOoop2ball_OOP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sven.janssens\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\sven.janssens\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\sven.janssens\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\sven.janssens\\.nuget\\packages\\microsoft.netcore.app.host.win-x86\\7.0.20\\microsoft.netcore.app.host.win-x86.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
